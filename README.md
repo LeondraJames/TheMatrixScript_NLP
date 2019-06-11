@@ -15,7 +15,7 @@ After removing missing rows, location headers, and stop words (both publically a
 
 Next, I wanted to explore the most frequent words under each sentiment. Interesting enough, the top 5 "fearful" words were "god", "hell", "change", "afraid" and "die". As expected, the top "angry" words were all curse words, and the most "positive" words included "god", "real" and "truth". When I graphed all words from the script on a sentiment plane, we see that the overall script tends to lean "negative" more than "positive", with the pattern following that of a typical Hollywood script architecture (ie: strong negativity right at the climax of drama). 
 
-Then, I created a "Matrix-style" animated wordcloud to show the occurence of unique terms in the script. The most frequent word of all was "agent".
+Then, I created a series of wordclouds, including a  "Matrix-style" animated wordcloud to show the occurence of unique terms in the script (see the attached HTML file in the repository!). The most frequent word of all was "agent".
 
 Lastly, I created a document term matrix, removing the sparsity in the data, and using LDA to determine the probability of certain terms occuring in each topic. I used a 2 and 3-topic model to see if there were any major differences in topics if split 2 or 3 ways respectively. What I found was that the topics were very similar and shared many of the same top terms, although they did have little differences.
 
