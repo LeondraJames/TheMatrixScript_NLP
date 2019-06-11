@@ -1,4 +1,4 @@
-# TheMatrixScript_NLP
+# "The Matrix" Script NLP Project
 A project utilizing NLP techniques and analysis including text mining, document term matrices, sentiment analysis, wordclouds and topic modeling with LDA.
 
 # Why The Matrix
