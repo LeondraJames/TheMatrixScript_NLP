@@ -1,3 +1,5 @@
+![](https://media.wired.com/photos/5ca648a330f00e47fd82ae77/master/pass/Culture_Matrix_Code_corridor.jpg)
+
 # "The Matrix" Script NLP Project
 A project utilizing NLP techniques and analysis including text mining, document term matrices, sentiment analysis, wordclouds and topic modeling with LDA.
 
